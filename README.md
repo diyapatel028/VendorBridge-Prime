@@ -126,12 +126,6 @@ The backend provides APIs for:
 - Node.js (v18 or later)
 - PNPM
 
-### Clone Repository
-
-bash
-git clone https://github.com/your-username/Procurement-Hub.git
-cd Procurement-Hub
-
 
 ### Install Dependencies
 
